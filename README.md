@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1>Hi, I'm Brandon! <br/><a href="https://github.com/BrandonSlaughter3">Cybersecurity and Smart Contract Projects</h1>
 
-<!--
-**BrandonSlaughter3/BrandonSlaughter3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- [Active Directory Home Lab](https://github.com/BrandonSlaughter3/LABURL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🗄 Smart Contracts Projects</h2>
+
+- [Decentralized Exchange DEX]
+
+<h2>📄 Certifications:</h2>
+
+- [Security Plus in progress]
+
+- [AWS Cloud Practioner in progress]
+
+
+
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/brandonslaughter/)
+&nbsp;
